@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "Flow Jobs",
+    default: "PathQuester Jobs",
     template: "%s | Flow Jobs",
   },
   description: "Find your dream developer job.",
